@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.contas">
+    package="com.paulo.conta">
    <application
         android:label="contas"
         android:icon="@mipmap/ic_launcher">
